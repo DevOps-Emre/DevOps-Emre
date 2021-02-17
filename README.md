@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🔭 I’m currently working on Kubernetes
+### 💬 Ask me about anything
 
 <!--
 **E2450-Ozan/E2450-Ozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

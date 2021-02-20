@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on Kubernetes
 ### 💬 Ask me about anything
-### 📫 How to reach me: devops.ozanyagmur@gmail.com (linkedin.com/in/ozan-yagmur-devops-ozan)
+### 📫 How to reach me: devops.ozanyagmur@gmail.com (https://www.linkedin.com/in/ozan-yagmur-devops-ozan/)
 ### 💻🖱📚📌⏳💸
 !(https://www.pentalog.com/wp-content/uploads/2020/03/DevOps-engineer-job-roles-and-responsibilities.png)
 <!--

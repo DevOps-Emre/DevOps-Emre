@@ -3,7 +3,7 @@
 ### 💬 Ask me about anything
 ### 📫 How to reach me: devops.ozanyagmur@gmail.com (http://www.linkedin.com/in/ozan-yagmur-devops-ozan/)
 ### 💻🖱📚📌⏳
-![AWS & DevOps Engineer](https://media.clarusway.com/devops-aws-medium.png)
+![AWS & DevOps Engineer](https://developer.akamai.com/sites/default/files/2018-07/devops%20%281%29.gif)
 <!--
 **E2450-Ozan/E2450-Ozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

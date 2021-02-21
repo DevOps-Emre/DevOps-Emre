@@ -6,7 +6,7 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=E2450-Ozan&show_icons=true&theme=vision-friendly-dark" align='left' width="55%">
 <br><br>
-### As a DevOps Engineer
+-As a DevOps Engineer
 ![AWS & DevOps Engineer](https://developer.akamai.com/sites/default/files/2018-07/devops%20%281%29.gif)
 <!--
 **E2450-Ozan/E2450-Ozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

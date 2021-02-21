@@ -1,5 +1,5 @@
-### Hi there 👋
-### 🔭 I’m currently working on Kubernetes
+### Hi there This is Ozan who is AWS&DevOps Engineer👋
+### 🔭 I’m currently working on Kubernetes&Rancher Project
 ### 💬 Ask me about anything
 ### 📫 How to reach me: [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ozan-yagmur-devops-ozan/)
 ### 💻🖱📚📌⏳

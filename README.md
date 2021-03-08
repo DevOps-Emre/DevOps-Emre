@@ -6,8 +6,8 @@ You can find some experimental and forked projects on my repos, feel free to con
 [![GitHub Follow Badge](https://img.shields.io/github/followers/DevOps-Emre?label=follow&style=social)](https://github.com/DevOps-Emre)
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=E2450-Ozan&show_icons=true&count_private=true&hide=contribs,issues" alt="E2450-Ozan's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=E2450-Ozan&layout=compact&hide=html,css" alt="My Top Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=DevOps-Emre&show_icons=true&count_private=true&hide=contribs,issues" alt="Emre's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOps-Emre&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 <hr>
 

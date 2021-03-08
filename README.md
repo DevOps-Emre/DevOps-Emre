@@ -1,4 +1,4 @@
-### Hi there, This is Ozan 👋
+### Hi there, This is Emre 👋
 
 I am interested in cloud technology and processes of developing, testing and releasing software, allowing for the continuous delivery(CI/CD) of software and software updates.So i prefer AWS&DevOps tools. I started my new career and my dream with Clarusway. In addition, I learn new IT skills here and also create my new projects. I look forward to producing social projects that are very useful for good people.
 
@@ -13,8 +13,8 @@ You can find some experimental and forked projects on my repos, feel free to con
 
 ### 📫 How to reach me:
 <p align="left">
-<a href="https://www.linkedin.com/in/ozan-yagmur-devops-ozan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="e2450-Ozan" height="30" width="40" /></a>
-<a href="mailto:devops.ozanyagmur@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a> 
+<a href="linkedin.com/in/emre-yalcin-devops" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="DevOps-Emre" height="30" width="40" /></a>
+<a href="mailto:devops.emreyalcin@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a> 
 </p>
 <hr>
 

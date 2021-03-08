@@ -3,7 +3,7 @@
 I am interested in cloud technology and processes of developing, testing and releasing software, allowing for the continuous delivery(CI/CD) of software and software updates.So i prefer AWS&DevOps tools. I started my new career and my dream with Clarusway. In addition, I learn new IT skills here and also create my new projects. I look forward to producing social projects that are very useful for good people.
 
 You can find some experimental and forked projects on my repos, feel free to contribute or use them. Knowledge should spread! 💪
-[![GitHub Follow Badge](https://img.shields.io/github/followers/E2450-Ozan?label=follow&style=social)](https://github.com/E2450-Ozan)
+[![GitHub Follow Badge](https://img.shields.io/github/followers/DevOps-Emre?label=follow&style=social)](https://github.com/DevOps-Emre)
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=E2450-Ozan&show_icons=true&count_private=true&hide=contribs,issues" alt="E2450-Ozan's github stats" />
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Jenkins & Github Actions
 - 🤔 I’m looking for help with Ansible
 - 💬 Ask me about anything
-- 📫 How to reach me: devops.ozanyagmur@gmail.com
+- 📫 How to reach me: devops.emreyalcin@gmail.com
 - 😄 Pronouns: dejavu
 - ⚡ Fun fact: AWS
 -->

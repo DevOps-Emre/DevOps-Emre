@@ -13,7 +13,7 @@ You can find some experimental and forked projects on my repos, feel free to con
 
 ### 📫 How to reach me:
 <p align="left">
-<a href="linkedin.com/in/emre-yalcin-devops" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="DevOps-Emre" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emre-yalcin-devops/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="DevOps-Emre" height="30" width="40" /></a>
 <a href="mailto:devops.emreyalcin@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a> 
 </p>
 <hr>

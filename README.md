@@ -26,11 +26,11 @@ You can find some experimental and forked projects on my repos, feel free to con
 
 ### Happy Coding! 😊
 ### As a Cloud & DevOps Engineer
-![Cloud & DevOps Engineer](https://developer.akamai.com/sites/default/files/2018-07/devops%20%281%29.gif)
+![Cloud & DevOps Engineer](https://simplecoding.dev/assets/devops.gif)
 <br><br>
-#### <p align="left"> <img src="https://komarev.com/ghpvc/?username=E2450-Ozan" alt="E2450-Ozan" /> 
+#### <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevOps-Emre" alt="DevOps-Emre" /> 
 <!--
-**E2450-Ozan/E2450-Ozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps-Emre/DevOps-Emre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

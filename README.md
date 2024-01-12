@@ -25,8 +25,8 @@ You can find some experimental and forked projects on my repos, feel free to con
 <hr>
 
 ### Happy Coding! 😊
-### As a DevOps Engineer
-![AWS & DevOps Engineer](https://developer.akamai.com/sites/default/files/2018-07/devops%20%281%29.gif)
+### As a Cloud & DevOps Engineer
+![Cloud & DevOps Engineer](https://developer.akamai.com/sites/default/files/2018-07/devops%20%281%29.gif)
 <br><br>
 #### <p align="left"> <img src="https://komarev.com/ghpvc/?username=E2450-Ozan" alt="E2450-Ozan" /> 
 <!--
